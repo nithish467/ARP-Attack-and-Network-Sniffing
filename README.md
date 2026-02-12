@@ -43,12 +43,16 @@ In Metasploit open the ftp console as below. Also you can try other ftp websites
 
 
 
-#In Kali issue the following commands:
-sudo dsnifff
+## WIRESHARK :
+
 ## OUTPUT:
 <img width="939" height="654" alt="image" src="https://github.com/user-attachments/assets/ad5cc8a5-335a-49e2-a1de-74785803656f" />
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
+
+## ETTERCAP :
+ettercap supports active and passive dissection of many protocols and includes many features for network and host analysis.
+
 
 
 ## RESULT:
