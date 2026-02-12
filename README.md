@@ -53,6 +53,7 @@ Invoke the wireshark and examine the various menus  and controls of the tool:
 ## ETTERCAP :
 ettercap supports active and passive dissection of many protocols and includes many features for network and host analysis.
 
+<img width="926" height="546" alt="image" src="https://github.com/user-attachments/assets/69fcac2d-9ba7-48cd-81d4-6b9931c1128d" />
 
 
 ## RESULT:
